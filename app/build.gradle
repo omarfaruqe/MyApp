@@ -8,8 +8,8 @@ android {
 
     defaultConfig {
         applicationId "bd.ac.ru.cse"
-        minSdk 30
-        targetSdk 31
+        minSdk 26
+        targetSdk 30
         versionCode 1
         versionName "1.0"
 
