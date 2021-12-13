@@ -14,7 +14,7 @@
     <Button
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="CLICK ME"
+        android:text="@string/hard_worker"
         android:layout_gravity="center_horizontal"
         android:textSize="30sp"/>
 

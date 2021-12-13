@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">MyApp</string>
+    <string name="click_me">CLICK ME</string>
+    <string name="hard_worker">Hard worker</string>
 </resources>
