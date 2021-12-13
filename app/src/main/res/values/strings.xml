@@ -1,3 +1,7 @@
 <resources>
-    <string name="app_name">MyApp</string>
+    <string name="app_name">About Me</string>
+    <string name="myname">My name is Sayem Abedin. I am a student and learning cotlin for android development. But i like block chain better. it has
+    the power of the world.</string>
+    <string name="button1">click</string>
+    <string name="button2">close</string>
 </resources>
