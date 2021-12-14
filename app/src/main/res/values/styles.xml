@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+<!--        <item name="colorPrimary">#122259</item>-->
+<!--        <item name="colorPrimaryDark">#122259</item>-->
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="android:textColor">#FFF</item>
+    </style>
+    <style name="MyActionBarTitleText"
+        parent="@android:style/TextAppearance.Holo.Widget.ActionBar.Title">
+        <item name="android:textColor">@color/purple_700</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+</resources>

@@ -8,10 +8,11 @@ android {
 
     defaultConfig {
         applicationId "bd.ac.ru.cse"
-        minSdk 30
+        minSdk 28
         targetSdk 31
         versionCode 1
         versionName "1.0"
+        multiDexEnabled true
 
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
     }
@@ -40,4 +41,7 @@ dependencies {
     testImplementation 'junit:junit:4.+'
     androidTestImplementation 'androidx.test.ext:junit:1.1.2'
     androidTestImplementation 'androidx.test.espresso:espresso-core:3.3.0'
+
+    implementation 'org.jetbrains.anko:anko-common:0.9'
+    implementation 'com.google.android.gms:play-services-location:17.0.0'
 }
