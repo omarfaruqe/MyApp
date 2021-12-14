@@ -22,7 +22,7 @@
             android:layout_height="wrap_content">
             <TextView
                 android:id="@+id/address"
-                android:textSize="24sp"
+                android:textSize="30sp"
                 android:text="Location"
                 android:textColor="#FFF"
                 android:layout_width="wrap_content"
@@ -53,7 +53,7 @@
                 android:layout_height="wrap_content"/>
             <TextView
                 android:id="@+id/temp"
-                android:textSize="90sp"
+                android:textSize="80sp"
                 android:fontFamily="sans-serif-thin"
                 android:layout_gravity="center"
                 android:text="24°C"
@@ -191,9 +191,7 @@
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"/>
                 </LinearLayout>
-                <Space
-                    android:layout_width="10dp"
-                    android:layout_height="wrap_content"/>
+
             </LinearLayout>
             <Space
                 android:layout_width="wrap_content"
@@ -299,9 +297,6 @@
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"/>
                 </LinearLayout>
-                <Space
-                    android:layout_width="10dp"
-                    android:layout_height="wrap_content"/>
             </LinearLayout>
         </LinearLayout>
 
